@@ -1,9 +1,5 @@
 # İŞ YERİ EĞİTİMİ
-Grup üyeleri
-* Hasan YALÇIN (Scrum Master, Analyst)
-* Ömer KÜLAHCI (Backend Developer)
-* Ömer TEMEL (Full-Stack Developer)
-* Burak F. CİLBİR (Frontend Developer)
+
 
 # KULLANILAN TEKNOLOJİLER
 * Java
