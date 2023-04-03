@@ -41,5 +41,10 @@ Grup üyeleri
   
   ![class diagram](https://user-images.githubusercontent.com/115798059/209450361-255a785c-a740-4e79-a512-ea7ae8d07082.png)
 
+# UYGULAMA İÇİ GÖRÜNTÜLER
 
+![Screenshot_1680526238](https://user-images.githubusercontent.com/42616536/229517103-a3d80452-b886-470b-8ec9-344b6ec53e0d.png)
+![Screenshot_1680526282](https://user-images.githubusercontent.com/42616536/229517110-0341d414-4d46-4fdd-a1ba-630a7bc5b182.png)
+![Screenshot_1680526210](https://user-images.githubusercontent.com/42616536/229517115-d4141396-80a3-4609-bed1-b506e62f249a.png)
+![Screenshot_1680526226](https://user-images.githubusercontent.com/42616536/229517118-87fcfc71-d924-4f76-9312-640f2591c8af.png)
 
